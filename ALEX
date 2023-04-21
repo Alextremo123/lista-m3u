@@ -1,8 +1,8 @@
-#EXTINF:-1 channel-id="mjh-prime" tvg-id="mjh-prime" tvg-logo="" tvg-chno="15" group-title="Nz" , EURONEW
+#EXTINF:-1 channel-id="ernw-euronews" tvg-id="ernw-euronews" tvg-logo="" group-title="informe",euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="mjh-hgtv" tvg-id="mjh-hgtv" tvg-logo="" tvg-chno="19" group-title="Nz" , DWA
+#EXTINF:-1 channel-id="dwatv-dwa" tvg-id="dwatv-dwa"  tvg-logo="" group-title="informe",DWA
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito Mexico
+#EXTINF:-1 channel-id="cton-mx" tvg-id="cton-mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito Mexico
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Culture;Education",XHSPR-TDT1
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
