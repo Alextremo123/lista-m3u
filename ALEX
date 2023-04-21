@@ -1,3 +1,7 @@
+#EXTM3U
+	
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Euro news", Euro news 
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="ernw-euronews" tvg-id="ernw-euronews" tvg-logo="" group-title="informe",euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="dwatv-dwa" tvg-id="dwatv-dwa"  tvg-logo="" group-title="informe",DWA
