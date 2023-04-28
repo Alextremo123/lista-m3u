@@ -5,7 +5,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,WIN SPORTS+
-http://mvk@190.131.228.59:8000/play/a0e2/index.m3u8
+http://mvk@190.131.228.59:8000/play/a0e2/index.m3u8?token=ertuiolkbvgdseyhvfr4yjkorw_Ghhgfdhj_gfftykkmbg33678jbh
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
