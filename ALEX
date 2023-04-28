@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="CANAL 14-inf" tvg-id="CANAL 14-inf" tvg-logo=""  group-title="" ,CANAL 14
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 channel-id="CANAL 24-inf" tvg-id="CANAL 24-inf" tvg-logo=""  group-title="" ,CANAL 1 ESPAÑA 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
