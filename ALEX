@@ -29,10 +29,10 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 #EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" ,24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,Jtv
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL INSTITUCIONAL 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpwF-hqOb7GZkq0riDGiQ-QGO1PFdnQtMdepR-mcFFOdDuEFX4c2rD5hdNvFeo7hcXAtYme5Nbjk_pJCUBQanFn6aVwM1rz4svD5PzTdaeIw3-CtXAA-kD2-rPiq07poFqxFL1nDmFKPxHpiKVD6Kh3mDHEkrnDReff3GVHUvWBtPIAYGDdnbtIM5leJ-wK8i8hjv12mOVBFMmJQtXfhRAiQcQHfYC42UnbTm90hA7PoUrZF8PtTU9mGZ968DNU6Q1P1Lb0T1hSzCawNb7nMJnajJncnd3jeGHdqqfv6RL6rnZASfUumH70J0sJpB-YKZVdBMKTSVK1V1ZAKHbw6BwhS-lRO8qX2ig4vEH7xBBueW5-b776DhfHAMg4wgOT8Q8hYzGzm7Zf5uHzutbjalJMAvcGGlsHae3Zvl_bhyTdHlULcLRAmiasGfWm9Vs9iSLW0iaxBIqdEWx0xdoLQ6N3CFnRquJImDVxNAmnpEtM9GATjEPhbkr3d260843notlYgQSHl8tGiOPtSVjkC_-KdYwrJe_2tCJ470085zTHOBn0wCJTJgPJFiqe3xlYeczQDUQv2NPkUCbIs4BahhpguW0Yi_iskS_lp4tsWdT8elJMJ5yixOHDu2pAvjPkA_WaNUpIESBtht1cL25ey5pj7YXeYmSXBCOJkxfCICn1d_IomI7hDGIZ5sjinbrQX2DRuwKcet3hARVNqenfCrhWmBgAGpQcokrkxB9t5bz_pjt4kXMP1CQmUJeF4upwvTi7tkRJXBYcey79ReVKCkiaf5Pjg_n_Uo0AzqCuVlbHDri4TzK3H8sV266gKCYoIIixYNsbZsnl_sY-qVjWJYOytu-4BdHTOHdUdu-RL5IzFPyKPis4L-bxh_W-Ewu0aDCrnfKuFjDczweS9giABKglldS13ZXN0LTIwrwY.m3u8
 #EXTINF:-1 channel-id="RCN-inf" tvg-id="RCN-inf" tvg-logo=""  group-title="" ,RCN
-https://vp01-rcnnuestrateleiptv.delivery.fuugo.com:443/ngrp:vp01-RCN_Nuestra_Tele_IPTV-167e39bf_all/chunklist_b2596000.m3u8?mvk
+https://vp01-rcnnuestrateleiptv.delivery.fuugo.com:443/ngrp:vp01-RCN_Nuestra_Tele_IPTV-167e39bf_all/chunklist_b2596000.m3u8
 #EXTINF:-1 channel-id="Caracol-inf" tvg-id="Caracol-inf" tvg-logo=""  group-title="" , Caracol 
 http://162.212.152.104:25461/CARACOL_TV-1/CARACOL_TV-1/3
