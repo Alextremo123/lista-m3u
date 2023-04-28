@@ -20,9 +20,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FPX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8	
-#EXTINF:-1 channel-id="NOMBRE-inf" tvg-id="NOMBRE-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CogFF1iuxiSlvY-iMavp5hUq5WqDNQRxkMl6W4KmggntCbsBvDnw9nVFAn5BQKfARdxLR4jnuv96CI6N0PS35GeXSjni1emxx0uGB4W0t73HI6fXCV3fAPRH3ZpO2sRpCnSMg4I5Q7Um7aTbWMVmU7Gdv-R7r50h0B-JAHmn9bg8nURKAAAoljp83Wc_LjWtcpTlTd_TvXUrwb61Ufx-qVim1Q-acLtZ0KWmWTrdV6oJ5Hq2UKNm9WWRIbJCOwK38_PeCawLu-1HWM0j0Du5QAwC9SAO_fM_kRO_ypDiUnsR1LBZztvsxCVGclyYS3ag0F8V-nr3uXsxunzqA4O6dRteztQEuAoINlZBiNvdIE3O4MRQfJYjb0XxRZA2wgMOo5GXoYnzKDCyiwxQIad_RdOXLmGqQ0A47SH9O0Ke-NuJpk7xr8TiTMv1dFTmSlmAgJeYdYcbm51yXhjZ4G5-Oivj_789ys6zRhTF20pjJi9xYJN2HpA9fmKZdhK06nCDnHpd47BC-djoJKm9p4OSfkfPbYfiXlXtOwC3gxIZHQw4cUwbcMvSe5ri-BUQAXCaaeHeQGw5hg54-6FhWd2wSOV609Q-cLUXmoamwu-TsxmcYfa0ci223GiuOE_8_6CCSHb4Uc6fYyMcj40cOFCREK9qMYoyUMr2FUcAYe0DHZgvcsA-48yyD5N5u2bMPeqErkRmCe2P9l59DzHIvx2vuVtNOq5j_J6n8blYotN0ELtMY0jgJ7mloiow1DssIjvtx4DOzHvKMfbC_7ctgTITFDGpyaFkcnPkjA3OTlaDKMvETnHJwpJnDqLdknNLCQ9pluj8145MH_OryEPmqQGUApYpzFWkFZYL0O56Ggwtc1p9-9zBRHh3oCIgASoJZXUtd2VzdC0yMLEG.m3u8
-#EXTINF:-1,cartoonntwork
+#EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1,cartoonntwor version kids
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
