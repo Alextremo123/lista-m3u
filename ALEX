@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="CANAL 24-inf" tvg-id="CANAL 24-inf" tvg-logo=""  group-title="" ,CANAL 24
+#EXTINF:-1 channel-id="CANAL 24-inf" tvg-id="CANAL 24-inf" tvg-logo=""  group-title="" ,CANAL 1 ESPAÑA 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -26,11 +26,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
-https://ssh101.bozztv.com/ssh101/cascada/playlist.m3u8
-#EXTINF:-1 channel-id="tv-cinco" tvg-id="tv-cinco" tvg-logo="" group-title="informe" ,TvCinco
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" ,rtve
+#EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" ,24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,Jtv
