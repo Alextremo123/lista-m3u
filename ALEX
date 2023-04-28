@@ -7,7 +7,7 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Euro news", Euro news 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ZOX7xh6",telemundo
+#EXTINF:-1 channel-id="TELEMUNDO-inf" tvg-id="TELEMUNDO-inf" tvg-logo=""  group-title="" ,TELEMUNDO
 https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIyIDg6NTU6NTkgUE0maGFzaF92YWx1ZT1yelpmV3FVSVN1VSs5bUVnZDNLMGVBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-chno="4" group-title="tv" tvg-logo="https://imgur.com/l0w13EY",DW español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
