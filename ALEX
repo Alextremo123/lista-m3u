@@ -24,7 +24,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8	
 #EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-#EXTINF:-1,cartoonntwor version kids
+#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 channel-id="str-locks" tvg-id="str-locks" tvg-logo="" group-title="informe" , str
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
