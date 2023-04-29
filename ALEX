@@ -31,8 +31,8 @@ https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
 https://stream.logicideas.media:443/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,NUEVO
-http://dalepley.club:8080/esferius/migufus159/157539.ts
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELECARIBE
+https://repackager.wixmp.com/wixmp-vod/59095b4a-eb3b-407b-8f64-23e3a3670586/video/aca2ba547615478ca66388ee33370cdc/480p/mp4/file.mp4/index-v1-a1.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2aWRlb19pZCI6ImFjYTJiYTU0NzYxNTQ3OGNhNjYzODhlZTMzMzcwY2RjIiwiaXNfY2xpcCI6ZmFsc2UsImlhdCI6MTY4Mjc0NTM4NCwiZXhwIjoxNjgyODMxNzg0LCJpc3MiOiJhcHA6dm9kIiwic3ViIjoidXNlcjp2b2QifQ.uEn_QGpsPb7dmRgA67XFSXgV04F1nBLzRnmKrceqUws
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RCN
 https://stream-07.ix7.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bud9boEw7uqbY2CaWma1lXkZgctEY0PrxC_7KTYyhgs)/cloud/3/x7vyv0z/s/live-3.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
