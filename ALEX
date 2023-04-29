@@ -37,3 +37,5 @@ https://stream-07.ix7.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bud9boEw7uqbY2CaW
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,3ABN Latino
 https://3abn-live.akamaized.net/hls/live/2010547-b/Latino/HQs/chunklist.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TORO TV
+https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
