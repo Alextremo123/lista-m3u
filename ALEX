@@ -41,3 +41,5 @@ https://3abn-live.akamaized.net/hls/live/2010547-b/Latino/HQs/chunklist.m3u8
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO IPUC
 https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO CIELO IPUC
+http://stream-064.zeno.fm/q1hztfgm54zuv?zs=hfiTC0VGTqS6vA7xvNs3YA
