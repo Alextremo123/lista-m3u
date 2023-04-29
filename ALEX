@@ -1,5 +1,4 @@
 #EXTM3U
-[mpd]
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
@@ -40,5 +39,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://3abn-live.akamaized.net/hls/live/2010547-b/Latino/HQs/chunklist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TORO TV
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTMPD
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,MPD
 https://d2v0pm0djulwne.cloudfront.net/out/v1/1f681f70784143e0a9059d1f3019ebc5/index.mpd
