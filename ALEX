@@ -45,3 +45,5 @@ https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
 http://stream-064.zeno.fm/q1hztfgm54zuv?zs=hfiTC0VGTqS6vA7xvNs3YA
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO BENDICIÓN IPUC
 https://samuel.i-radio.co:9000/radiobendicion.aac?1682825427796
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO GETSEMANÍ IPUC
+https://reshun.ru/colombia/getsemani-estereo/icecast.audio
