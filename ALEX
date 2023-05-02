@@ -2,8 +2,8 @@
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,DEPORTE 
-http://streamgo.vip:8008/SFVS442/v6P3ygSQ3wez/252156
+#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,HBO 
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvME6v3CNhwkbqz4cZEv_j0UdzZrmJ-L68pbgPlkWw1PyenZnYmgdNpS2CiOuB4mQyWf_kMPgO9x7jjD1QuESZnyF8GS_xrYXICM1Z6o1yHyPOqoZiFJyb1S8xH6R9Mt5ardqksDsXdVllatmTihnJuwxXAvQziWHk7re12x0sYGNlX-6TnNSu0Ee_1qZNul_clBrhzPMoPSkOqprTnfljTsq3DCeTUK8v4t5VdPZnDg90V9Yu0nCofYrdfOukTuCURKqdaWdrSaYgK_93jm_jmm3AVjf_ZVxGSIHsiZeFsBQEvqRedQH9cg1ElZ48PXH7Ha7EcSQhOrtMB0KpBqy_G3OCqoy7Zq3FIz5ple1pfOLTDZKUClj8FR-N5JVCnIDLR8EoZO3CWlZ-Ry8ZpIhOEYfaX6-pafUtdhY5DAKB24DPjs87sZ8YRedQrg_orlG8ymPkZUkh7mwvaMydOafIKd_tEBMJwXyv-RL66TPNFNGHnbS-elOWSKtXShUx53_rbEcs8fiAYU7CtQp8nY0Bd8tMLUsLXPUO6UxWvkXNDpEPOmC31zY1kx_b7tyn3KjSu_hAKrlBfQUrL-gJxdWvVSTy7ecaFn-ewKw5i3aVSr-wTuaDi8eeSja2SyRY9X288-2Pr_wKKKeAcjceln67Gy_fgrzqcdl5OHNwnBfyi3wiBPNQqrFSfGm8TDt0eAIAxFVQGd9qRp4vzqOQddv0O1UnnBXuVXlcnp1exEACkKIWLP-VUNknV2v-k4k5Q0ovV54cn5nhkD9mSs8RFi6po0ssAGYrNFcQ3AXBDhaQ8rkHphhgbOWkLc9VOno9w3OdzeKQ2GGgwK-D2GAvQWaMXMszAgASoJZXUtd2VzdC0yML0G.m3u8
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
