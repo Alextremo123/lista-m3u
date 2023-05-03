@@ -33,8 +33,8 @@ https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
 https://stream.logicideas.media:443/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RCN
-https://stream-07.ix7.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bud9boEw7uqbY2CaWma1lXkZgctEY0PrxC_7KTYyhgs)/cloud/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL UNO
+https://hls.goodgame.ru/hls/201916.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,3ABN Latino
