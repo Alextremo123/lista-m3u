@@ -1,11 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL CARACOL 
 https://hls.goodgame.ru/hls/201929.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,RCN
 https://hls.goodgame.ru/hls/201997.m3u8
+#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,TELE AMIGA
+https://inforedvos.lcdn.claro.net.co:443/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL INSTITUCIONAL 
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
+https://stream.logicideas.media:443/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL UNO
+https://hls.goodgame.ru/hls/201916.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,RED MAX 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TV PEÑOL HD Antioquia
@@ -14,6 +22,8 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w110379676.m3u8
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="EURO NEWS", EURO NEWS 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,DW
@@ -28,17 +38,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" ,24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL INSTITUCIONAL 
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
-https://stream.logicideas.media:443/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL UNO
-https://hls.goodgame.ru/hls/201916.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,3ABN Latino
