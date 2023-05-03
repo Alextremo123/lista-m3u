@@ -10,6 +10,8 @@ https://inforedvos.lcdn.claro.net.co:443/Content/HLS_HLS_DIR/Live/channel(REDMAS
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL INSTITUCIONAL 
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b3500000.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELECARIBE
+https://dcs-live-ue1.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-3&anvsid=m177618716-ndfae4eb7cf8578d3baa9b910964911e5&ts=1683136199&anvtrid=5b63f6dbd28a6a9808483c92fa711ece
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,SEÑAL COLOMBIA
 https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
