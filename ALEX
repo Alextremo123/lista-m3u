@@ -6,8 +6,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://hls.goodgame.ru/hls/201929.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL RCN
 https://bit.ly/41PBhlL
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL TELEMAX
-https://live-edge01.telecentro.net.ar:80/live/smil:tlx.smil/chunklist_w565095613_b364000_sleng.m3u8
+#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL TELE
+https://live-edge01.telecentro.net.ar:80/live/smil:tlx.smil/chunklist_w565095613_b364000_sleng.m3u8?PlaylistM3UCL
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TV PEÑOL HD Antioquia
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w110379676.m3u8
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
