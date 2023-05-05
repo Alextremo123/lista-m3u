@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL CARACOL 
 https://hls.goodgame.ru/hls/201929.m3u8
