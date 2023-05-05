@@ -61,7 +61,17 @@ https://tinyurl.com/2zurssc7
 https://stream.arcast.live/canal10/ngrp:canal10_all/.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,UNIVISION
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 12WEB
-http://59db7e671a1ad.streamlock.net:1935/madryntv/madryntv/.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 13 MAX
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 14 🇨🇴
+https://eu1.servers10.com:19360/8056/8056.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 2 🇨🇴
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 90 MINUTOS 🇨🇴 
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+
+
+
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,
+🇨🇴
+🇨🇴
