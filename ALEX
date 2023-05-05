@@ -1,9 +1,5 @@
 #EXTM3U8
 
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,CANAL CARACOL 
-https://hls.goodgame.ru/hls/201929.m3u8
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,RCN
-https://hls.goodgame.ru/hls/201997.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,TELE AMIGA
 https://inforedvos.lcdn.claro.net.co:443/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/06.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL
@@ -16,8 +12,6 @@ https://stream.ads.ottera.tv/cl/230503ch9d0pa7g1oopc29ru1g/1280x720_4214276_1_f.
 https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELEPACIFICO
 https://stream.logicideas.media:443/telepacifico-live/smil:live.smil/chunklist_b4500000_sles.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL UNO
-https://hls.goodgame.ru/hls/201916.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,RED MAX 
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TV PEÑOL HD Antioquia
