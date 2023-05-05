@@ -64,5 +64,12 @@ https://pc-25.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,DOCUMENTAL - Maradona
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,Win sports z
 https://ddh2.salamus1.lol:443/ddh2/premium392/tracks-v1a1/mono.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,Win sports 4
-https://ddh2.salamus1.lol:443/ddh2/premium392/tracks-v1a1/mono.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,Win sports A
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<channel>
+	<title>Канал 1</title>
+	<description></description>
+	<stream_url><![CDATA[https://ddh2.salamus1.lol:443/ddh2/premium392/tracks-v1a1/mono.m3u8]]></stream_url>
+</channel>
+</items>
