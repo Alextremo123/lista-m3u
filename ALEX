@@ -52,6 +52,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e10
 https://tinyurl.com/2zcwjh4g
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,MISTERIOS
 https://tinyurl.com/2zl8ygg6
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE TERROR 
+https://tinyurl.com/2fpgjcvx
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
