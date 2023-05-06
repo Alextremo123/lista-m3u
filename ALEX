@@ -42,6 +42,8 @@ https://samuel.i-radio.co:9000/radiobendicion.aac?1682825427796
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,DEPORTES ⚽
+https://tinyurl.com/2zzuhma3
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
@@ -56,7 +58,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,CANELA TV
 https://stream.ads.ottera.tv/cl/230503ch9e8910dv5ctfrofm4g/1280x720_3071200_0_f.m3u8?i=475_653
-
 #EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
