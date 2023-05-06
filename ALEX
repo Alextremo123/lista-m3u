@@ -85,5 +85,9 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL C 🇨🇴
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" , CANAL VISION DORADA 🇨🇴
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL VISION DORADA 🇨🇴
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL ADS 🇨🇴
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE ROKUTEN 
+https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
