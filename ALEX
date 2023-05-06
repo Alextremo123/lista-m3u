@@ -77,5 +77,6 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ATN CÚCUTA 🇨🇴 
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/.m3u8
-
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE BBC
+https://tinyurl.com/2zcwjh4g
 🇨🇴
