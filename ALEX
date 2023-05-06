@@ -38,9 +38,9 @@ https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
 http://stream-064.zeno.fm/q1hztfgm54zuv?zs=hfiTC0VGTqS6vA7xvNs3YA
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO BENDICIÓN IPUC 🎙️🎵🎶
 https://samuel.i-radio.co:9000/radiobendicion.aac?1682825427796
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,LIGA DEPORTIVA 🇲🇽
+#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,LIGA DEPORTIVA ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 🇪🇸
+#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 channel-id="CANAL MILENIO-inf" tvg-id="CANAL MILENIO-inf" tvg-logo=""  group-title="" ,CANAL MILENIO
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
