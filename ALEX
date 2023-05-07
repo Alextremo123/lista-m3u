@@ -44,6 +44,18 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 https://tinyurl.com/2zzuhma3
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ITV DEPORTES ⚽
 https://stream.ads.ottera.tv/cl/230503ch9d0pa7g1oopc29ru1g/1280x720_4214276_1_f.m3u8?i=475_3010
+#EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" , NOTICIA 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CABLENOTICIAS
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
+#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,DW 1
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,DW 2
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,DW 2
+https://tinyurl.com/2fhkeben
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE ROKUTEN 
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE SUSPENSO
@@ -73,16 +85,12 @@ https://tinyurl.com/2p2do28c
 https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,FORO MX
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="EURO NEWS", EURO NEWS 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,CANELA TV
-https://stream.ads.ottera.tv/cl/230503ch9e8910dv5ctfrofm4g/1280x720_3071200_0_f.m3u8?i=475_653
 #EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
@@ -91,8 +99,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" ,24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -114,8 +121,7 @@ https://streamtv.mediasector.es/hls/activatv/.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ANSOATEGUI VEN
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CABLENOTICIAS
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
+
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 33
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/.m3u8
 
