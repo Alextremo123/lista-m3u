@@ -1,7 +1,6 @@
 #EXTM3U8
 
-#EXTINF:-1 channel-id="jtvs-inf"  , CANALES COLOMBIANOS
-⬇️
+
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,MDA TV 🇨🇴
 https://vcp.myplaytv.com/mdatv/mdatv/.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL 🇨🇴
@@ -33,6 +32,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL ADS 🇨🇴
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
 
+#EXTM3U8
 
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO IPUC 🎙️🎵🎶
 https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
