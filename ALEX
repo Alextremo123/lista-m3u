@@ -1,7 +1,7 @@
 #EXTM3U8
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,RCN 🇨🇴
-http://162.212.152.104:25461/RCNWeb-1/Live/36
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,CANAL UNO 🇨🇴
+http:
 
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,MESA CAPITAL 🇨🇴
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
