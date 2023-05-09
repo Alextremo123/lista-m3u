@@ -78,7 +78,7 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 channel-id="MEXIQUENCE-inf" tvg-id="MEXIQUENCE-inf" tvg-logo=""  group-title="" , MEXIQUENSE 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="EURO NEWS", EURO NEWS 
+#EEXTINF:-1XTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="EURO NEWS", EURO NEWS 
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",RT ESPAÑOL
@@ -89,9 +89,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="Animation;Kids",CARTOONITO
+#EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
+EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
