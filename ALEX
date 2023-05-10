@@ -1,5 +1,6 @@
 #EXTM3U8
-
+#EXTM3U
+#EXTINF:0,https://bludot.skin/dtvpl2.html?id=1251
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo=""  group-title="informe" ,REAL MADRID
 https://storage.googleapis.com/overealove1/selector.m3u8
 
