@@ -1,6 +1,6 @@
 #EXTM3U8
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , CARACOL 
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , CARACOL HD 
 https://bit.ly/3IdaEzt
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,VIAPLAY 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
