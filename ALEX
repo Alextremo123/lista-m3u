@@ -38,6 +38,9 @@ https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
 http://stream-064.zeno.fm/q1hztfgm54zuv?zs=hfiTC0VGTqS6vA7xvNs3YA
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO BENDICIÓN IPUC 🎙️🎵🎶
 https://samuel.i-radio.co:9000/radiobendicion.aac?1682825427796
+
+#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" , REDBULL ⚽
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,LIGA DEPORTIVA ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
