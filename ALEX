@@ -140,4 +140,5 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8
 
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 33
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/.m3u8
-
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DOCUMENTAL- Luchas Felinas 
+https://fs2.cnubis.com/2FJc?download_token=41889166a34fb00f23219e95d2329c5b993a4ebe980a00196f8e3543847b9c97&.mp4
