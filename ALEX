@@ -4,8 +4,11 @@
 
 
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN +
-http://mundodigital.info:8080/live/YRHidZ2jSV/Pa8uGZ97DG/93046.m3u8
+
+
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARACOL HD
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN MAX
 https://mdstrm
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,MESA CAPITAL 🇨🇴
