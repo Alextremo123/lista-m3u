@@ -105,9 +105,96 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA ESPAÑOLA
+https://tinyurl.com/2z5u36m2
+ 
+
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA MEXICANA 
+https://tinyurl.com/2mr5lbjd
+
+
+
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA VENEZOLANA 
+https://tinyurl.com/2p2do28c
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SEO TV NOVELAS
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS- FAMILIA P-LUCHE
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS RISAS DE ORO
+https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - VESINOS
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - GRAFACANICAS
+https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - CUIDADO CON EL ANGEL
+https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - ALEGRIJES Y RIBUJOS
+https://linear-319.frequency.stream/319/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - ANGELIQUE
+https://linear-321.frequency.stream/321/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LOS EROES DEL NORTE
+https://linear-323.frequency.stream/323/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - GALANES
+https://linear-325.frequency.stream/325/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - JUANA LA VIRGEN
+https://linear-327.frequency.stream/327/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LAS 3 MARIAS
+https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - REBELDE
+https://linear-335.frequency.stream/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - SORTILEGIO
+https://linear-337.frequency.stream/337/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - TRIUNFO DE AMOR
+https://linear-338.frequency.stream/338/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - 40 y 20
+https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - COMO DICE EL DICHO
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - TERESA
+https://linear-342.frequency.stream/342/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LA PROMESA
+https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LAS ESTRELLAS
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - HASTA QIE EL DINERO NOS SEPARE
+https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LA USURPADORA
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - UNA FAMILIA DE  DIEZ
+https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",NOTICIAS RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PELICULAS SONY TV
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
