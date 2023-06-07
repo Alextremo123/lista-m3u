@@ -58,6 +58,26 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
 
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DIOS TE VE INFANTIL 
 https://emisoras.hn:8081/diostevekids/playlist.m3u8
+
+#EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
+
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
+#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
+
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+
+#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
+
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
+
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
+
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARROS Y MOTOS -MOTOR 1 TV
@@ -121,16 +141,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,BOLIVIA TV
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w202750595.m3u8
 
-#EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
-#EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
+
 https://stream-04.dc3.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UExRSCwnyq0fDxj8n5DDo04Ps4WDzH4dv6y5Whrugd_)/cloud/3/x7vyv0z/s/live-3.m3u8#cell=lcore
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
