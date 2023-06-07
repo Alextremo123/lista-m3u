@@ -78,8 +78,11 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
-#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW 1
+#EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",RT ESPAÑOL
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CINE ROKUTEN 
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -117,8 +120,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,BOLIVIA TV
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w202750595.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",RT ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
