@@ -142,7 +142,7 @@ https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - ALEGRIJES Y RIBUJOS
 https://linear-319.frequency.stream/319/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - ANGELIQUE
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,30.NOVELAS - ANGELIQUE
 https://linear-321.frequency.stream/321/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LOS EROES DEL NORTE
@@ -154,7 +154,7 @@ https://linear-325.frequency.stream/325/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - JUANA LA VIRGEN
 https://linear-327.frequency.stream/327/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LAS 3 MARIAS
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,15.NOVELAS - LAS 3 MARIAS
 https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
 
 
@@ -204,7 +204,7 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , PELÍCULA SEO TV 
 https://live.seo.tv.bo/live/1SEO.mhttps://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SEO TV PELICULAS
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,05.SEO TV PELICULAS
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 
