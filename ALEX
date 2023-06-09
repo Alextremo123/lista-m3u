@@ -70,8 +70,8 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 #EXTINF:-1 channel-id="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
-
-
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PEQUERADIO- INFANTIL
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
