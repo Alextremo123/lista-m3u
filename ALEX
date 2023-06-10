@@ -201,7 +201,7 @@ https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LAS ESTRELLAS
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - HASTA QIE EL DINERO NOS SEPARE
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,NOVELAS - HASTA QUE EL DINERO NOS SEPARE
 https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LA USURPADORA
