@@ -135,6 +135,9 @@ https://tinyurl.com/2mr5lbjd
 https://tinyurl.com/2p2do28c
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,AMORES VERDADEROS
+https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SEO TV NOVELAS
 https://live.seo.tv.bo/live/3SEO.m3u8
