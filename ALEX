@@ -328,9 +328,17 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8
 
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL 33
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/.m3u8
+
+
+
+
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,Feliz dia tu muerte
-https://flash.shortgod.com/nodawin/peliculas.php?id=vod.tuxchannel.mx/peliculas/720/feliz%20muerte%20dia.mp4
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , DOCUMENTAL ANIMAL- Atreverse a Morir
+https#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,Feliz dia tu muerte
+https://flash.shortgod.com/nodawin/peliculas.php?id=vod.tuxchannel.mx/peliculas/720/feliz%20muerte%20dia.mp
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , DOCUMENTAL ANIMAL- Atreverse a 
+
+
+
 https://fs2.cnubis.com/1PHr?download_token=ca9893154a9f7c2550b531eda5753dc118fca9a52f4ded56411c24d09485d572&.mp4
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DOCUMENTAL ANIMAL- Muerte Súbita 
 https://fs2.cnubis.com/1PHq?download_token=a3cc93b0dce66614da119d8ad6ce76661f5cbfc9ea74a68f069d6cc9ce14ba66&.mp4
