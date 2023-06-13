@@ -37,7 +37,7 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/chunklist_w110379676.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ALPAVISION 🇨🇴 
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
-#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ATN CÚCUTA 🇨🇴 
+#EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo="" group-title="informe" ,ATN CÚCUTA 🇨🇴
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,CANAL C 🇨🇴
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/.m3u8
