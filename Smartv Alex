@@ -99,6 +99,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN
+https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2
 https://v3.playerlatino.live/stream/m3u8/156
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS 
