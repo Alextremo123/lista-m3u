@@ -7,10 +7,12 @@
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT ONLINE 
 https://v3.playerlatino.live/stream/m3u8/292
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN 🇨🇴
+https://v3.playerlatino.live/stream/m3u8/390
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN MAX 🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARACOL HD 🇨🇴 
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://v3.playerlatino.live/stream/m3u8/290
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CANAL UNO 🇨🇴
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,SANTA MARTA TV 🇨🇴
