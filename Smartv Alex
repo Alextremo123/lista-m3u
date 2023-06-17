@@ -7,12 +7,12 @@
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT ONLINE ⚽
 https://v3.playerlatino.live/stream/m3u8/292
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARACOL 🇨🇴 
+https://v3.playerlatino.live/stream/m3u8/290
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN 🇨🇴
 https://v3.playerlatino.live/stream/m3u8/390
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN MAX 🇨🇴
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARACOL HD 🇨🇴 
-https://v3.playerlatino.live/stream/m3u8/290
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CANAL UNO 🇨🇴
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,SANTA MARTA TV 🇨🇴
@@ -65,6 +65,13 @@ https://emisoras.hn:8081/diostevekids/playlist.m3u8
 https://v3.playerlatino.live/stream/m3u8/67
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , DISCOVERY CHANNEL 
 https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NATIONAL GEOGRAPHIC 
+https://v3.playerlatino.live/stream/m3u8/76
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NAT GEO 
+https://v3.playerlatino.live/stream/m3u8/77
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , ANIMAL PLANET 
+https://v3.playerlatino.live/stream/m3u8/3
+
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,HGTV- Remodelacion de Casas
 https://v3.playerlatino.live/stream/m3u8/23
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DKISS
@@ -79,10 +86,10 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,CARTOON NETWORD
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-
+#EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL CHAVO DEL 8
+https://v3.playerlatino.live/stream/m3u8/400
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PEQUERADIO- INFANTIL
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
