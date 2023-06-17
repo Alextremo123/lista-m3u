@@ -63,6 +63,8 @@ https://emisoras.hn:8081/diostevekids/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,CANAL HISTORIA 
 https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , DISCOVERY CHANNEL 
+https://v3.playerlatino.live/stream/m3u8/22
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DKISS
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DMAX- Casos de la Vida Real 
