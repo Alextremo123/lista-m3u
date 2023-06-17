@@ -93,8 +93,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS 
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title=""https://v3.playerlatino.live/stream/m3u8/997,SKY SPORTS 
 https://v3.playerlatino.live/stream/m3u8/989
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,TUDN SPORTS 
+https://v3.playerlatino.live/stream/m3u8/997
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARROS Y MOTOS -MOTOR 1 TV
