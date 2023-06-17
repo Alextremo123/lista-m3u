@@ -99,17 +99,24 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN
+#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS
+https://v3.playerlatino.live/stream/m3u8/998
+#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN ⚽
 https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2 ⚽
 https://v3.playerlatino.live/stream/m3u8/156
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS 
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,BEIN SPORTS ⚽
+https://v3.playerlatino.live/stream/m3u8/9
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS ⚽ 
 https://v3.playerlatino.live/stream/m3u8/989
-#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS 2
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SKY SPORTS 2 ⚽
 https://v3.playerlatino.live/stream/m3u8/900
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,TUDN SPORTS 
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,TUDN SPORTS ⚽ 
 https://v3.playerlatino.live/stream/m3u8/997
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY 
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY ⚽ 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARROS Y MOTOS -MOTOR 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -117,10 +124,7 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" , DEPORTES LIGA MX ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS
-https://v3.playerlatino.live/stream/m3u8/998
-#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,DEPORTES ⚽
 https://tinyurl.com/2zzuhma3
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ITV DEPORTES ⚽
