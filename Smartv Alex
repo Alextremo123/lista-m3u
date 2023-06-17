@@ -105,6 +105,8 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" , DEPORTES LIGA MX ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS
+https://v3.playerlatino.live/stream/m3u8/998
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,DEPORTES ⚽
