@@ -6,6 +6,7 @@
 
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORTS+
 https://v3.playerlatino.live/stream/m3u8/881
+
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT ONLINE 
 https://v3.playerlatino.live/stream/m3u8/292
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,RCN MAX 🇨🇴
@@ -53,8 +54,8 @@ http://stream-064.zeno.fm/q1hztfgm54zuv?zs=hfiTC0VGTqS6vA7xvNs3YA
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,RADIO BENDICIÓN IPUC 🎙️🎵🎶
 https://samuel.i-radio.co:9000/radiobendicion.aac?1682825427796
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,FAV TV CRISTIANO
-
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.png" group-title="MEXICO", ALCANCE TV - Cristiano
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DIOS TE VE INFANTIL 
