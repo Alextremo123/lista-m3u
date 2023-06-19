@@ -1,9 +1,8 @@
-#EXTM3U8
+#EXTM3U
 
 
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,W   ⚽
-https://bit.ly/3obBJw3
+
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORTS + ⚽ 
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT ONLINE ⚽
