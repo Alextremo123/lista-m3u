@@ -70,14 +70,12 @@ https://v3.playerlatino.live/stream/m3u8/76
 https://v3.playerlatino.live/stream/m3u8/77
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , ANIMAL PLANET 
 https://v3.playerlatino.live/stream/m3u8/3
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,HGTV- Remodelacion de Casas
 https://v3.playerlatino.live/stream/m3u8/23
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DKISS
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DMAX- Casos de la Vida Real 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL TEM- Casos de la Vida Real 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,🌐
@@ -95,9 +93,6 @@ https://v3.playerlatino.live/stream/m3u8/427
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
-
-
-
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
