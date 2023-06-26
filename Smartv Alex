@@ -92,6 +92,8 @@ https://v3.playerlatino.live/stream/m3u8/418
 Chavo
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" , DRAGÓN BALL Z
 https://v3.playerlatino.live/stream/m3u8/425
+#EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,LOS SIMPSON 
+https://v3.playerlatino.live/stream/m3u8/894
 #EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" , CABALLEROS DEL ZODIACO 
 https://v3.playerlatino.live/stream/m3u8/427
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PEQUERADIO- INFANTIL
