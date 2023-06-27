@@ -88,8 +88,9 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,🌐
 #EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,DISNEY CHANNEL
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,CARTOON NETWORD
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,CANTIFLAS
+https://v3.playerlatino.live/stream/m3u8/428
+
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL CHAVO DEL 8
 https://v3.playerlatino.live/stream/m3u8/400
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL DOCTOR CHAPATIN
@@ -105,16 +106,15 @@ https://v3.playerlatino.live/stream/m3u8/894
 https://v3.playerlatino.live/stream/m3u8/427
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PEQUERADIO- INFANTIL
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,CARTOON NETWORD
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-
 #EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-
 EXTINF:-1XTINF:-1XTINF:-1 group-title="Animation;Kids",CARTOONITO
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
@@ -122,11 +122,16 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 https://v3.playerlatino.live/stream/m3u8/998
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN Futbol ⚽
+https://v3.playerlatino.live/stream/m3u8/35
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN ⚽
 https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2 ⚽
 https://v3.playerlatino.live/stream/m3u8/156
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2- ⚽
+https://v3.playerlatino.live/stream/m3u8/484
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 3 ⚽
+https://v3.playerlatino.live/stream/m3u8/485
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 4 ⚽
 https://v3.playerlatino.live/stream/m3u8/493
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,BEIN SPORTS ⚽
@@ -169,21 +174,15 @@ https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA ESPAÑOLA
 https://tinyurl.com/2z5u36m2
- 
-
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA MEXICANA 
 https://tinyurl.com/2mr5lbjd
-
-
-
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,COSINA VENEZOLANA 
 https://tinyurl.com/2p2do28c
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,TLNOVELAS- Univision 
+https://v3.playerlatino.live/stream/m3u8/413
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,AMORES VERDADEROS
 https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SEO TV NOVELAS
 https://live.seo.tv.bo/live/3SEO.m3u8
 
@@ -256,7 +255,8 @@ https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",NOTICIAS RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
-
+#EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PELICULAS TNT
+https://v3.playerlatino.live/stream/m3u8/500
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,PELICULAS SONY TV
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
