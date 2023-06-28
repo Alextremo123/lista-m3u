@@ -3,8 +3,7 @@
 
 
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,Win +
-https://daddylivehd.sx/embed/stream-392.php
+
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORTS + ⚽ 
 https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT ONLINE ⚽
@@ -1605,5 +1604,8 @@ https://archive.org/download/02_20210717_202107/08.mp4
 https://archive.org/download/02_20210717_202107/07.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5733004.png" tvg-group="premier", prueba
-
 https://sblona.com/xls06xw6vekc.html
+
+
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,Win 
+https://daddylivehd.sx/embed/stream-392.m3u8
