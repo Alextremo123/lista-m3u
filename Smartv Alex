@@ -527,8 +527,10 @@ https://archive.org/download/01_20210519_20210519_1719/01.mp4
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238085.png" tvg-group="netflix", Terminator 2: El juicio final
 https://archive.org/download/01_20210520_20210520_1544/01.mp4
 
-#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238086.png" tvg-group="netflix", El Grinch
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238086.png" tvg-group="netflix",El Grinch
 https://archive.org/download/01_20210520_20210520_1553/01.mp4
+#EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238086.png" tvg-group="netflix",El Grinch- Animado
+https://storage.googleapis.com/eighth-opus-250514.appspot.com/content/R/The%20Grinch/LAT%201080%20T.H.3_G.R.1.N.C.H.mp4
 
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5238088.png" tvg-group="netflix", 8 Mile: Calle de las ilusiones
 https://archive.org/download/01_20210521_20210521_1407/01.mp4
