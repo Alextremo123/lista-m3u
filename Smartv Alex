@@ -122,6 +122,12 @@ https://v3.playerlatino.live/stream/m3u8/998
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1,ESPN (PC)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=983438635&_cdn_timestamp=1690181279&_cdn_token=915e185129645dbc32212692da8c50fa091d3aa1
+#EXTINF:-1,ESPN 2 (PC)
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=983438667&_cdn_timestamp=1690181284&_cdn_token=fc17874bde6036bd5e4cf64bd7ab3a2f6fccb8fb
+#EXTINF:-1,ESPN 3 (PC)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=983439595&_cdn_timestamp=1690181480&_cdn_token=817531e69819af37f985471eb95f6844e6d7f993
+#EXTINF:-1,ESPN 4 (PC)
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=983440427&_cdn_timestamp=1690181642&_cdn_token=7b0115b575779294342bbe9df00e4d5a0091b4f7
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN ⚽
 https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN Extra ⚽
