@@ -83,14 +83,12 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,CANTIFLAS
 https://v3.playerlatino.live/stream/m3u8/428
-
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL CHAVO DEL 8
 https://v3.playerlatino.live/stream/m3u8/400
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL DOCTOR CHAPATIN
 https://v3.playerlatino.live/stream/m3u8/417
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL CHAPULIN COLORADO
 https://v3.playerlatino.live/stream/m3u8/418
-
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" , DRAGÓN BALL Z
 https://v3.playerlatino.live/stream/m3u8/425
 #EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,LOS SIMPSON 
@@ -101,7 +99,6 @@ https://v3.playerlatino.live/stream/m3u8/427
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,CARTOON NETWORD
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 2
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 channel-id="CARTOON NETWORD 2-inf" tvg-id="CARTOON NETWORD 2-inf" tvg-logo=""  group-title="" ,CARTOON NETWORD 3
@@ -115,7 +112,6 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 https://v3.playerlatino.live/stream/m3u8/998
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN ⚽
 https://v3.playerlatino.live/stream/m3u8/34
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN Extra ⚽
@@ -126,7 +122,6 @@ https://v3.playerlatino.live/stream/m3u8/494
 https://v3.playerlatino.live/stream/m3u8/156
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2 Opc -2 ⚽
 https://v3.playerlatino.live/stream/m3u8/35
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 2- ⚽
 https://v3.playerlatino.live/stream/m3u8/484
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 3 ⚽
@@ -149,12 +144,10 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" , DEPORTES LIGA MX ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,DEPORTES ⚽
 https://tinyurl.com/2zzuhma3
 #EXTINF:-1 channel-id="jtvs-inf" tvg-id="jtvs-inf" tvg-logo=""  group-title="informe" ,ITV DEPORTES ⚽
 https://stream.ads.ottera.tv/cl/230503ch9d0pa7g1oopc29ru1g/1280x720_4214276_1_f.m3u8?i=475_3010
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
 #EXTINF:-1 channel-id="rtv-tv" tvg-id="rtv-tv" tvg-logo=""  group-title="informe" , NOTICIA- 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -164,10 +157,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/.m3u8
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW CorTV 
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,CANAL HOLA PLAY - COSINA
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
@@ -184,34 +175,24 @@ https://v3.playerlatino.live/stream/m3u8/413
 https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,SEO TV NOVELAS
 https://live.seo.tv.bo/live/3SEO.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS- FAMILIA P-LUCHE
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS RISAS DE ORO
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - VESINOS
 https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - GRAFACANICAS
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - CUIDADO CON EL ANGEL
 https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - ALEGRIJES Y RIBUJOS
 https://linear-319.frequency.stream/319/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,30.NOVELAS - ANGELIQUE
 https://linear-321.frequency.stream/321/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - LOS EROES DEL NORTE
 https://linear-323.frequency.stream/323/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - GALANES
 https://linear-325.frequency.stream/325/hls/master/playlist.m3u8
-
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,NOVELAS - JUANA LA VIRGEN
 https://linear-327.frequency.stream/327/hls/master/playlist.m3u8
 
