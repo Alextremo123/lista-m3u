@@ -66,6 +66,8 @@ https://v3.playerlatino.live/stream/m3u8/907
 https://v3.playerlatino.live/stream/m3u8/67
 #EXTINF:-1,Discobery H&H- Hogar y Salud (PC)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=983445907&_cdn_timestamp=1690182542&_cdn_token=fffa977cfb7ec28b4e980e02fee01f43f0b7cdb8
+#EXTINF:-1,DISCOVERY CHANNEL (PC)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=983440987&_cdn_timestamp=1690181757&_cdn_token=757158ac370775972e86408c4573b6ef2c34162f
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , DISCOVERY CHANNEL 
 https://v3.playerlatino.live/stream/m3u8/22
 #EXTINF:-Viajes y Vida (PC)
