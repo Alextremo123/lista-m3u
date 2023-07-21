@@ -80,6 +80,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_c
 https://v3.playerlatino.live/stream/m3u8/76
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NAT GEO 
 https://v3.playerlatino.live/stream/m3u8/77
+#EXTINF:-1,ANIMAL PLANET (PC)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=983441395&_cdn_timestamp=1690181828&_cdn_token=ecfbae2719ba2da5adbfb938b378e6c5b5210ce7
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , ANIMAL PLANET 
 https://v3.playerlatino.live/stream/m3u8/3
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,HGTV- Remodelacion de Casas
