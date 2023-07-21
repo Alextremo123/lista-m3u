@@ -168,6 +168,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW CorTV 
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
+#EXTINF:-1, LA DIEZ - SALUD
+https://panel.miplay.cl:8081/ladies/index.m3u8
 #EXTINF:-1,Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,CANAL HOLA PLAY - COSINA
