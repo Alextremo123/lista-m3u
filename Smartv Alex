@@ -68,6 +68,8 @@ https://v3.playerlatino.live/stream/m3u8/67
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=983445907&_cdn_timestamp=1690182542&_cdn_token=fffa977cfb7ec28b4e980e02fee01f43f0b7cdb8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , DISCOVERY CHANNEL 
 https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:-Viajes y Vida (PC)
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=983445923&_cdn_timestamp=1690182547&_cdn_token=2bf82e3c95039c49fbaeb10a1f7d18e72c808c27
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NATIONAL GEOGRAPHIC 
 https://v3.playerlatino.live/stream/m3u8/76
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NAT GEO 
