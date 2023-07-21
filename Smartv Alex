@@ -76,6 +76,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m
 https://v3.playerlatino.live/stream/m3u8/22
 #EXTINF:-Viajes y Vida (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=983445923&_cdn_timestamp=1690182547&_cdn_token=2bf82e3c95039c49fbaeb10a1f7d18e72c808c27
+#EXTINF:-1, NATIONAL GEOGRAPHIC (PC)
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=983441411&_cdn_timestamp=1690181833&_cdn_token=0ab579583be2a80141542da3f7dd7f0864f5f656
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NATIONAL GEOGRAPHIC 
 https://v3.playerlatino.live/stream/m3u8/76
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NAT GEO 
