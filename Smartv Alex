@@ -156,13 +156,15 @@ https://v3.playerlatino.live/stream/m3u8/900
 https://v3.playerlatino.live/stream/m3u8/997
 #EXTINF:-1, REALMADRID TV (PC)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1,DEPORTES LIGA1MAX - EDX
+https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY ⚽ 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARROS Y MOTOS -MOTOR 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,TODO DEPORTES - Boxeo
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIzIDQ6NDc6MTQgQU0maGFzaF92YWx1ZT0rOUpzVW50L3lIanNMQy9FVjMwVy9RPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
-#EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,DEPORTES REDBULL ⚽
+#EXTINF:-1 ir-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,DEPORTES REDBULL ⚽
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 channel-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" , DEPORTES LIGA MX ⚽
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
