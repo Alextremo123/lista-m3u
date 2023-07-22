@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 
 
 
@@ -69,25 +69,25 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3
 https://v3.playerlatino.live/stream/m3u8/67
 #EXTINF:-1,Discobery H&H- Hogar y Salud (PC)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=983445907&_cdn_timestamp=1690182542&_cdn_token=fffa977cfb7ec28b4e980e02fee01f43f0b7cdb8
-#EXTINF:-1, DISCOVERY TURBO- (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , DISCOVERY TURBO- (PC)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=983441067&_cdn_timestamp=1690181777&_cdn_token=8180ccb643a7df0e8e686e3dd9b9a1b06fe136d6
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DISCOVERY CIENCIE (PC)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=983441035&_cdn_timestamp=1690181764&_cdn_token=bf888f0b1bc1a5513eda3c6a2f25f59308327aaf
-#EXTINF:-1,DISCOVERY CHANNEL (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DISCOVERY CHANNEL (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=983440987&_cdn_timestamp=1690181757&_cdn_token=757158ac370775972e86408c4573b6ef2c34162f
-#EXTINF:-1,DISCOVERY INVESTIGACIÓN (PC)
+# #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DISCOVERY INVESTIGACIÓN (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=986619259&_cdn_timestamp=1690260360&_cdn_token=a09e33f659e08c1b58f247e6891c819fbc9b02db
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , DISCOVERY CHANNEL 
 https://v3.playerlatino.live/stream/m3u8/22
 #EXTINF:-Viajes y Vida (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=983445923&_cdn_timestamp=1690182547&_cdn_token=2bf82e3c95039c49fbaeb10a1f7d18e72c808c27
-#EXTINF:-1, NATIONAL GEOGRAPHIC (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,NATIONAL GEOGRAPHIC (PC)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=983441411&_cdn_timestamp=1690181833&_cdn_token=0ab579583be2a80141542da3f7dd7f0864f5f656
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NATIONAL GEOGRAPHIC 
 https://v3.playerlatino.live/stream/m3u8/76
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , NAT GEO 
 https://v3.playerlatino.live/stream/m3u8/77
-#EXTINF:-1,ANIMAL PLANET (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,ANIMAL PLANET (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=983441395&_cdn_timestamp=1690181828&_cdn_token=ecfbae2719ba2da5adbfb938b378e6c5b5210ce7
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" , ANIMAL PLANET 
 https://v3.playerlatino.live/stream/m3u8/3
@@ -97,7 +97,7 @@ https://v3.playerlatino.live/stream/m3u8/23
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:25_HD.smil/manifest.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL DMAX- Casos de la Vida Real 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
-#EXTINF:-1,ON TOUR
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,ON TOUR
 https://marine2.miplay.cl/ontour/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,DOCUMENTAL TEM- Casos de la Vida Real 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.m3u8
@@ -106,7 +106,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:26_HD.smil/man
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1 id-canal="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo="" group-title="" ,CANTIFLAS
 https://v3.playerlatino.live/stream/m3u8/428
-#EXTINF:-1,EL CHAVO DEL 8 (PC)
+ #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,EL CHAVO DEL 8 (PC)
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 id-canal="CARTOON NETWORD-inf" tvg-id="CARTOON NETWORD-inf" tvg-logo="" group-title="" ,EL CHAVO DEL 8
 https://v3.playerlatino.live/stream/m3u8/400
@@ -137,13 +137,13 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/.m
 https://v3.playerlatino.live/stream/m3u8/998
 #EXTINF:-1 channel-id="FOX SPORTS 2-inf" tvg-id="FOX SPORTS 2-inf" tvg-logo=""  group-title="" ,FOX SPORTS 2 ⚽
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1,ESPN (PC)
+ #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,ESPN (PC)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=983438635&_cdn_timestamp=1690181279&_cdn_token=915e185129645dbc32212692da8c50fa091d3aa1
-#EXTINF:-1,ESPN 2 (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,  ESPN 2 (PC)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=983438667&_cdn_timestamp=1690181284&_cdn_token=fc17874bde6036bd5e4cf64bd7ab3a2f6fccb8fb
-#EXTINF:-1,ESPN 3 (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,ESPN 3 (PC)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=983439595&_cdn_timestamp=1690181480&_cdn_token=817531e69819af37f985471eb95f6844e6d7f993
-#EXTINF:-1,ESPN 4 (PC)
+ #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,ESPN 4 (PC)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=983440427&_cdn_timestamp=1690181642&_cdn_token=7b0115b575779294342bbe9df00e4d5a0091b4f7
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN ⚽
 https://v3.playerlatino.live/stream/m3u8/34
@@ -161,7 +161,7 @@ https://v3.playerlatino.live/stream/m3u8/484
 https://v3.playerlatino.live/stream/m3u8/485
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,ESPN 4 ⚽
 https://v3.playerlatino.live/stream/m3u8/493
-#EXTINF:-1,BEIN SPORTS Extra (PC)
+ #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,BEIN SPORTS Extra (PC)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,BEIN SPORTS ⚽
 https://v3.playerlatino.live/stream/m3u8/9
@@ -171,15 +171,15 @@ https://v3.playerlatino.live/stream/m3u8/989
 https://v3.playerlatino.live/stream/m3u8/900
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,TUDN SPORTS ⚽ 
 https://v3.playerlatino.live/stream/m3u8/997
-#EXTINF:-1, REALMADRID TV (PC)
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,REALMADRID TV (PC)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1,DEPORTES LIGA1MAX - EDX
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES LIGA1MAX - EDX
 https://stream.plixitv.live/edx/edx/playlist.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,DEPORTES VIAPLAY ⚽ 
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARROS Y MOTOS -MOTOR 1 TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,TODO DEPORTES - Boxeo
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" , TODO DEPORTES - Boxeo
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIzIDQ6NDc6MTQgQU0maGFzaF92YWx1ZT0rOUpzVW50L3lIanNMQy9FVjMwVy9RPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 ir-id="WIN SPORTS+-inf" tvg-id="WIN SPORTS+-inf" tvg-logo=""  group-title="" ,DEPORTES REDBULL ⚽
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -201,9 +201,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 channel-id="DW-inf" tvg-id="DW-inf" tvg-logo=""  group-title="" ,NOTICIA - DW CorTV 
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,🌐
-#EXTINF:-1, LA DIEZ - SALUD
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,LA DIEZ - SALUD
 https://panel.miplay.cl:8081/ladies/index.m3u8
-#EXTINF:-1,Mundo & Sabor
+ #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,Mundo & Sabor
 https://marine2.miplay.cl/mundoysabor/playlist.m3u8
 #EXTINF:-1 channel-id="FORO MX-inf" tvg-id="FORO MX-inf" tvg-logo=""  group-title="" ,CANAL HOLA PLAY - COSINA
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
