@@ -2,8 +2,8 @@ EXTM3U
 
 
 
-#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORTS  ⚽ 
-https://tucanaldeportivo.com/winmas.php
+#EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN  ⚽ 
+https://tucanaldeportivo.com/winmas.m3u8
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,WIN SPORT + FHD OPC-2 ⚽
 https://v3.playerlatino.live/stream/m3u8/292
 #EXTINF:-1 channel-id="entres-net" tvg-id="entres-net" tvg-logo="" group-title="informe" ,CARACOL 🇨🇴 
